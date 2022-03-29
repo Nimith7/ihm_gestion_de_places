@@ -12,11 +12,19 @@
 <div class="column">
     <!-- Header -->
     <div class="header">
-        <h1>ACTUELLEMENT AU FESTIVAL</h1>
+        <div>
+            <h1>ACTUELLEMENT AUX FESTIVALS</h1>
+        </div>
+        <div class="logo row">
+            <!-- <img src="img/Logo-Etonnants-Voyageurs.png" alt="Logo Étonnants Voyageurs"> -->
+            <img src="img/Logo-Quai-des-Bulles.jpg" alt="Logo Quai des Bulles" style="width: 40%">
+            <img src="img/etonnants-voyageurs-2022.jpg" alt="Affiche Étonnants Voyageurs 2022" style="width: 60%">
+        </div>
     </div>
+    <!---->
     <!-- Main -->
     <div class="main">
-        <!---->
+        <!-- Titre / Festival -->
         <div class="main-titre row">
             <h2>Spectacles et Évènements</h2>
             <h3>/</h3>
@@ -24,13 +32,64 @@
             <button>Changer de festival</button>
         </div>
         <!---->
+        <!-- Filtres -->
         <nav class="filtres">
+            <button>Jour 1</button>
+            <button>Jour 2</button>
+            <button>Jour 3</button>
             <button>Spectacle</button>
             <button>Théatre</button>
             <button>Film</button>
         </nav>
         <!---->
+        <!-- Liste des évènements -->
         <div class="liste-event row">
+            <!-- Première ligne d'évènements -->
+            <!-- 1.1 -->
+            <div class="card-event">
+                <div class="affiche-event">
+                    <a>
+                        <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
+                    </a>
+                </div>
+                <div>
+                    <h3>Titre</h3>
+                </div>
+            </div>
+            <!-- 1.2 -->
+            <div class="card-event">
+                <div class="affiche-event">
+                    <a>
+                        <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
+                    </a>
+                </div>
+                <div>
+                    <h3>Titre</h3>
+                </div>
+            </div>
+            <!-- 1.3 -->
+            <div class="card-event">
+                <div class="affiche-event">
+                    <a>
+                        <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
+                    </a>
+                </div>
+                <div>
+                    <h3>Titre</h3>
+                </div>
+            </div>
+            <!-- 1.4 -->
+            <div class="card-event">
+                <div class="affiche-event">
+                    <a>
+                        <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
+                    </a>
+                </div>
+                <div>
+                    <h3>Titre</h3>
+                </div>
+            </div>
+            <!-- 1.5 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a>
@@ -42,6 +101,8 @@
                 </div>
             </div>
             <!---->
+            <!-- Deuxième ligne d'évènements -->
+            <!-- 2.1 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a>
@@ -52,7 +113,8 @@
                     <h3>Titre</h3>
                 </div>
             </div>
-            <!----><div class="card-event">
+            <!-- 2.2 -->
+            <div class="card-event">
                 <div class="affiche-event">
                     <a>
                         <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
@@ -62,7 +124,8 @@
                     <h3>Titre</h3>
                 </div>
             </div>
-            <!----><div class="card-event">
+            <!-- 2.3 -->
+            <div class="card-event">
                 <div class="affiche-event">
                     <a>
                         <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
@@ -72,7 +135,19 @@
                     <h3>Titre</h3>
                 </div>
             </div>
-            <!----><div class="card-event">
+            <!-- 2.4 -->
+            <div class="card-event">
+                <div class="affiche-event">
+                    <a>
+                        <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
+                    </a>
+                </div>
+                <div>
+                    <h3>Titre</h3>
+                </div>
+            </div>
+            <!-- 2.5 -->
+            <div class="card-event">
                 <div class="affiche-event">
                     <a>
                         <div class="fakeimg" style="    width: 300px; height: 400px;">Image</div>
@@ -84,7 +159,9 @@
             </div>
             <!---->
         </div>
+        <!---->
     </div>
+    <!---->
     <!-- Footer -->
     <div class="footer">
         <h3>PROJET BORNE TACTILE POUR FESTIVALS</h3>
