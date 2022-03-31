@@ -61,7 +61,7 @@ body {
     margin-right: 0.625em
 }
 
-.affiche-event {
+.affiche-film {
     box-shadow: 0 1.5em 2.5em -.5em rgba(0, 0, 0, 0.2);
 }
 
@@ -77,6 +77,9 @@ body {
 
 .filtres {
     margin-bottom: 1.75em;
+}
+.filtre-btn {
+    margin: auto 20px;
 }
 
 #switch_btn {
