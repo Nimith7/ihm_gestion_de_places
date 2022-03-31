@@ -46,50 +46,23 @@ body {
 .main-titre {
     margin-bottom: 1.75em;
     align-items: baseline;
-}
-.main-titre > h2 {
-    margin-right: 0.625em
-}
-.main-titre > h3 {
-    margin-right: 0.625em
-}
-.affiche-event {
-    box-shadow: 0 1.5em 2.5em -.5em rgba(0,0,0,0.2);
-}
-.affiche-event:hover{
-    transition: transform .45s ease, background .45s ease;
-    transform: scale(1.02);
-}
-
-.liste-event {
     text-align: center;
+}
+.main-titre h2 {
+    font-size: xxx-large;
+}
+.main-titre h3 {
+    font-size: x-large;
+}
+.main-container {
     justify-content: space-around;
 }
-.filtres {
-    margin-bottom: 1.75em;
+.affiche-film {
+    border-radius: 0.5em;
 }
-#switch_btn {
-    background-color: white;
-    border: 1px solid black;
-    color: black;
-    padding: 3px 10px;
-    border-radius: 3rem;
-    font-size: 1rem;
-}
-#switch_btn:hover {
-    background-color: brown;
-    color: white;
-}
-.filtre-btn label {
-    border: 1px solid black;
-    color: black;
-    padding: 3px 10px;
-    border-radius: 3rem;
-    font-size: 1rem;
-}
-input[type=radio] {
-    display: none;
-}
+
+/* Formulaire */
+
 
 /* Footer */
 .footer {

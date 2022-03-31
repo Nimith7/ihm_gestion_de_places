@@ -38,7 +38,7 @@
         <!-- Filtres -->
         <nav class="filtres row">
             <div class="filtre-btn">
-                <input type="radio" name="rdo_j1" id="btn_jour1" onclick="setColor('btn_jour1')">
+                <input type="radio" name="rdo_j1" id="btn_jour1"onclick="setColor('btn_jour1')">
                 <label for="btn_jour1">Jour 1</label>
             </div>
             <div class="filtre-btn">
