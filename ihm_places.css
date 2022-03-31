@@ -60,19 +60,36 @@ body {
     transition: transform .45s ease, background .45s ease;
     transform: scale(1.02);
 }
-.filtres {
-    margin-bottom: 1.75em;
-}
+
 .liste-event {
     text-align: center;
     justify-content: space-around;
 }
-
-/* Fake image, just for this example */
-.fakeimg {
-    background-color: #aaa;
-    padding: 1.25em;
-    border-radius: 0.5em;
+.filtres {
+    margin-bottom: 1.75em;
+}
+#switch_btn {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    padding: 3px 10px;
+    border-radius: 3rem;
+    font-size: 1rem;
+}
+#switch_btn:hover {
+    background-color: brown;
+    color: white;
+}
+.filtre-btn label {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    padding: 3px 10px;
+    border-radius: 3rem;
+    font-size: 1rem;
+}
+input[type=radio] {
+    display: none;
 }
 
 /* Footer */
