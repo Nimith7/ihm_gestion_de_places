@@ -38,7 +38,7 @@
         <!-- Filtres -->
         <nav class="filtres row">
             <div class="filtre-btn">
-                <input type="radio" name="rdo_j1" id="btn_jour1"onclick="setColor('btn_jour1')">
+                <input type="radio" name="rdo_j1" id="btn_jour1" onclick="setColor('btn_jour1')">
                 <label for="btn_jour1">Jour 1</label>
             </div>
             <div class="filtre-btn">
@@ -83,7 +83,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-2.php">
-                        <img class="affiche-film" src="img/films/en-route-pour-le-milliard.jpg" alt="Affiche du film En route pour le milliard"
+                        <img class="affiche-film" src="img/films/en-route-pour-le-milliard.jpg"
+                             alt="Affiche du film En route pour le milliard"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -101,7 +102,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-3.php">
-                        <img class="affiche-film" src="img/films/enseignez-a-vivre.jpg" alt="Affiche du film Enseignez à vivre ! - Edgar Morin et l’éducation innovante"
+                        <img class="affiche-film" src="img/films/enseignez-a-vivre.jpg"
+                             alt="Affiche du film Enseignez à vivre ! - Edgar Morin et l’éducation innovante"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -119,7 +121,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-4.php">
-                        <img class="affiche-film" src="img/films/kamtchatka.jpg" alt="Affiche du film Kamtchatka - Un été en pays Evène"
+                        <img class="affiche-film" src="img/films/kamtchatka.jpg"
+                             alt="Affiche du film Kamtchatka - Un été en pays Evène"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -173,7 +176,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-7.php">
-                        <img class="affiche-film" src="img/films/la-cordillere-des-songes.jpg" alt="Affiche du film La cordillère des songes"
+                        <img class="affiche-film" src="img/films/la-cordillere-des-songes.jpg"
+                             alt="Affiche du film La cordillère des songes"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -191,7 +195,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-8.php">
-                        <img class="affiche-film" src="img/films/les-identites-de-mona-ozouf.jpg" alt="Affiche du film Les identités de Mona Ozouf"
+                        <img class="affiche-film" src="img/films/les-identites-de-mona-ozouf.jpg"
+                             alt="Affiche du film Les identités de Mona Ozouf"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -209,7 +214,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-9.php">
-                        <img class="affiche-film" src="img/films/mustang-le-royaume-de-la-lumiere.jpg" alt="Affiche du film Mustang, le royaume de la lumière"
+                        <img class="affiche-film" src="img/films/mustang-le-royaume-de-la-lumiere.jpg"
+                             alt="Affiche du film Mustang, le royaume de la lumière"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -227,7 +233,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-10.php">
-                        <img class="affiche-film" src="img/films/simone-et-andre-schwarz-bart-la-memoire-en-partage.jpg" alt="Affiche du film Simone et André Schwarz-Bart, la mémoire en partage"
+                        <img class="affiche-film" src="img/films/simone-et-andre-schwarz-bart-la-memoire-en-partage.jpg"
+                             alt="Affiche du film Simone et André Schwarz-Bart, la mémoire en partage"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -265,7 +272,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-12.php">
-                        <img class="affiche-film" src="img/films/taming-the-garden.jpg" alt="Affiche du film Taming the garden"
+                        <img class="affiche-film" src="img/films/taming-the-garden.jpg"
+                             alt="Affiche du film Taming the garden"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -283,7 +291,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-13.php">
-                        <img class="affiche-film" src="img/films/the-earth-is-blue-as-an-orange.jpg" alt="Affiche du film The earth is blue as an orange"
+                        <img class="affiche-film" src="img/films/the-earth-is-blue-as-an-orange.jpg"
+                             alt="Affiche du film The earth is blue as an orange"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -301,7 +310,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-14.php">
-                        <img class="affiche-film" src="img/films/the-filmakers-house.jpg" alt="Affiche du film The filmmaker’s house"
+                        <img class="affiche-film" src="img/films/the-filmakers-house.jpg"
+                             alt="Affiche du film The filmmaker’s house"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -319,7 +329,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-15.php">
-                        <img class="affiche-film" src="img/films/the-last-hillbilly.jpg" alt="Affiche du film The Last Hillbilly"
+                        <img class="affiche-film" src="img/films/the-last-hillbilly.jpg"
+                             alt="Affiche du film The Last Hillbilly"
                              style="
                              max-width: 300px;
                              max-height: 400px;

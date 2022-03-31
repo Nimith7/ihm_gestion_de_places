@@ -1,12 +1,14 @@
 * {
     box-sizing: border-box;
 }
+
 html, body {
     padding: 0;
     margin: 0;
     width: 100%;
     height: 100%;
 }
+
 body {
     font-family: 'Arial', sans-serif;
 }
@@ -17,6 +19,7 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
 }
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -30,6 +33,7 @@ body {
     color: white;
     justify-content: space-around;
 }
+
 .logo {
     justify-content: space-around;
     margin: 2.625em 0 0 0;
@@ -40,29 +44,35 @@ body {
     padding: 2em;
     margin: 2em 3em 5.5em 3em;
     height: 100%;
-    box-shadow: 0 0.265em 1.25em 0 rgba(0,0,0,0.2);
+    box-shadow: 0 0.265em 1.25em 0 rgba(0, 0, 0, 0.2);
     position: relative;
 }
+
 .main-titre {
     margin-bottom: 1.75em;
     align-items: baseline;
     text-align: center;
 }
+
 .main-titre h2 {
     font-size: xxx-large;
 }
+
 .main-titre h3 {
     font-size: x-large;
 }
+
 .main-container {
     justify-content: space-around;
 }
+
 .affiche-film {
     border-radius: 0.5em;
 }
 
 /* Formulaire */
 
+/* Bouton retour */
 
 /* Footer */
 .footer {

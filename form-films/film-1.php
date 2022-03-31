@@ -47,15 +47,20 @@
                         <label for="res-nom">Nom</label><input type="text" class="form-control" name="nom" id="res-nom">
                     </div>
                     <div class="form-group">
-                        <label for="res-email">E-mail</label><input type="email" class="form-control" name="email" id="res-email">
+                        <label for="res-email">E-mail</label><input type="email" class="form-control" name="email"
+                                                                    id="res-email">
                     </div>
                     <div class="form-group">
-                        <label for="res-tel">Téléphone</label><input type="text" class="form-control" name="tel" id="res-tel">
+                        <label for="res-tel">Téléphone</label><input type="text" class="form-control" name="tel"
+                                                                     id="res-tel">
                     </div>
                     <input type="submit" name="reserver" value="Reserver" class="res-btn">
                 </form>
             </div>
-
+        </div>
+        <!-- Bouton retour -->
+        <div class="btn-retour">
+            <a href="../ihm_places.php">Retour à la liste des films</a>
         </div>
     </div>
     <!---->
