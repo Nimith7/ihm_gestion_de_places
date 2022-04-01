@@ -61,27 +61,6 @@ body {
     margin-right: 0.625em
 }
 
-.affiche-film {
-    box-shadow: 0 1.5em 2.5em -.5em rgba(0, 0, 0, 0.2);
-}
-
-.affiche-event:hover {
-    transition: transform .45s ease, background .45s ease;
-    transform: scale(1.02);
-}
-
-.liste-event {
-    text-align: center;
-    justify-content: space-around;
-}
-
-.filtres {
-    margin-bottom: 1.75em;
-}
-.filtre-btn {
-    margin: auto 20px;
-}
-
 #switch_btn {
     background-color: white;
     border: 1px solid black;
@@ -96,6 +75,16 @@ body {
     color: white;
 }
 
+/* Barre de filtres */
+.filtres {
+    margin-bottom: 1.75em;
+}
+
+
+.filtre-btn {
+    margin: auto 20px;
+}
+
 .filtre-btn label {
     border: 1px solid black;
     color: black;
@@ -106,6 +95,21 @@ body {
 
 input[type=radio] {
     display: none;
+}
+
+/* Section liste des films */
+.liste-event {
+    text-align: center;
+    justify-content: space-around;
+}
+
+.affiche-event:hover {
+    transition: transform .45s ease, background .45s ease;
+    transform: scale(1.02);
+}
+
+.affiche-film {
+    box-shadow: 0 1.5em 2.5em -.5em rgba(0, 0, 0, 0.2);
 }
 
 /* Footer */

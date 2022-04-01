@@ -75,7 +75,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Acasa, my home</h3>
                 </div>
             </div>
@@ -94,7 +94,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>En route pour le milliard</h3>
                 </div>
             </div>
@@ -113,7 +113,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Enseignez à vivre !</h3>
                 </div>
             </div>
@@ -132,7 +132,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Kamtchatka</h3>
                 </div>
             </div>
@@ -168,7 +168,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>L’aventure</h3>
                 </div>
             </div>
@@ -187,7 +187,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>La cordillère des songes</h3>
                 </div>
             </div>
@@ -206,7 +206,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Les identités de Mona Ozouf</h3>
                 </div>
             </div>
@@ -225,7 +225,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Mustang, le royaume de la lumière</h3>
                 </div>
             </div>
@@ -244,7 +244,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Simone et André Schwarz-Bart</h3>
                 </div>
             </div>
@@ -264,7 +264,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Stray</h3>
                 </div>
             </div>
@@ -283,7 +283,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>Taming the garden</h3>
                 </div>
             </div>
@@ -302,7 +302,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>The earth is blue as an orange</h3>
                 </div>
             </div>
@@ -321,7 +321,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>The filmmaker’s house</h3>
                 </div>
             </div>
@@ -340,7 +340,7 @@
                         ">
                     </a>
                 </div>
-                <div>
+                <div class="titre-event">
                     <h3>The Last Hillbilly</h3>
                 </div>
             </div>
