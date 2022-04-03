@@ -29,9 +29,10 @@
         <div class="main-titre row">
             <h2>Spectacles et Évènements</h2>
             <h3>/</h3>
-            <h3>Étonnants Voyageurs</h3>
+            <h3>Quai des Bulles</h3>
             <!-- Bouton choix du festival -->
-            <input id="switch_btn" type="button" value="Changer de festival">
+            <a id="switch_btn" href="prog-etonnants-voyageurs.php">Changer de festival</a>
+            <!-- <input id="switch_btn" type="button" value="Changer de festival"> -->
             <!---->
         </div>
         <!---->
@@ -49,13 +50,6 @@
                 <input type="radio" name="rdo_j3" id="btn_jour3" onclick="setColor('btn_jour3')">
                 <label for="btn_jour3">Jour 3</label>
             </div>
-
-            <!--
-            <input type="button" value="Jour 2" class="filtre-btn" id="btn_jour2" onclick="setColor('btn_jour2')">
-            <input type="button" value="Jour 3" class="filtre-btn" id="btn_jour3" onclick="setColor('btn_jour3')">
-            <input type="button" value="Film" class="filtre-btn" id="btn_film" onclick="setColor('btn_film')">
-            <input type="button" value="Dédicasse" class="filtre-btn" id="btn_dedicasse" onclick="setColor('btn_dedicasse')">
-            <input type="button" value="Spectacle" class="filtre-btn" id="btn_spectacle" onclick="setColor('btn_spectacle')"> -->
         </nav>
         <!---->
         <!-- Liste des évènements -->

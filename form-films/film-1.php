@@ -60,7 +60,7 @@
         </div>
         <!-- Bouton retour -->
         <div class="btn-retour">
-            <a href="../ihm_places.php">Retour à la liste des films</a>
+            <a href="../prog-etonnants-voyageurs.php">Retour à la liste des films</a>
         </div>
     </div>
     <!---->
