@@ -59,7 +59,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-1.php">
-                        <img class="affiche-film" src="img/films/cinema-hors-normes.jpg" alt="Affiche du film Hors normes"
+                        <img class="affiche-film" src="img/films/cinema-hors-normes.jpg"
+                             alt="Affiche du film Hors normes"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -70,7 +71,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>Acasa, my home</h3>
+                    <h3>Hors normes</h3>
                 </div>
             </div>
             <!-- 1.2 -->
@@ -89,7 +90,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>En route pour le milliard</h3>
+                    <h3>En liberté !</h3>
                 </div>
             </div>
             <!-- 1.3 -->
@@ -108,7 +109,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>Enseignez à vivre !</h3>
+                    <h3>Coup de foudre à Notting Hill</h3>
                 </div>
             </div>
             <!-- 1.4 -->
@@ -127,14 +128,15 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>Kamtchatka</h3>
+                    <h3>Les Grands Ducs</h3>
                 </div>
             </div>
             <!-- 1.5 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-5.php">
-                        <img class="affiche-film" src="img/films/cinema-effet-aquatique.jpg" alt="Affiche du film L'effet aquatique"
+                        <img class="affiche-film" src="img/films/cinema-effet-aquatique.jpg"
+                             alt="Affiche du film L'effet aquatique"
                              style="
                              width: 300px;
                              height: 400px;
@@ -143,7 +145,7 @@
                     </a>
                 </div>
                 <div>
-                    <h3>Kongo</h3>
+                    <h3>L'effet aquatique</h3>
                 </div>
             </div>
             <!---->
@@ -152,7 +154,8 @@
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films/film-6.php">
-                        <img class="affiche-film" src="img/films/cinema-ce-qui-nous-lie.jpg" alt="Affiche du film Ce qui nous lie"
+                        <img class="affiche-film" src="img/films/cinema-ce-qui-nous-lie.jpg"
+                             alt="Affiche du film Ce qui nous lie"
                              style="
                              max-width: 300px;
                              max-height: 400px;
@@ -163,7 +166,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>L’aventure</h3>
+                    <h3>Ce qui nous lie</h3>
                 </div>
             </div>
             <!-- 2.2 -->
@@ -182,7 +185,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>La cordillère des songes</h3>
+                    <h3>Le grand bain</h3>
                 </div>
             </div>
             <!-- 2.3 -->
@@ -201,7 +204,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>Les identités de Mona Ozouf</h3>
+                    <h3>Calamity</h3>
                 </div>
             </div>
             <!-- 2.4 -->
@@ -220,7 +223,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>Mustang, le royaume de la lumière</h3>
+                    <h3>Brisby et le secret de Nimh</h3>
                 </div>
             </div>
             <!-- 2.5 -->
@@ -239,7 +242,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>Simone et André Schwarz-Bart</h3>
+                    <h3>Fievel et le Nouveau Monde</h3>
                 </div>
             </div>
             <!---->
@@ -260,7 +263,7 @@
                     </a>
                 </div>
                 <div class="titre-event">
-                    <h3>Taming the garden</h3>
+                    <h3>Les sans-dents</h3>
                 </div>
             </div>
             <!---->
