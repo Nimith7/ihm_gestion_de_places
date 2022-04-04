@@ -31,8 +31,8 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>Kamtchatka - Un été en pays Evène</h2>
+            <h3>de Mike MAGIDSON et Nastassja MARTIN réalisé par Mike MAGIDSON (Point du Jour, T2MP, ARTE France / 2018 / 52’)</h3>
         </div>
         <!---->
         <div class="main-container row">

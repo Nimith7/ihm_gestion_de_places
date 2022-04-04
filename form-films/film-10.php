@@ -31,8 +31,8 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>Simone et André Schwarz-Bart, la mémoire en partage</h2>
+            <h3>de Camille CLAVEL (INA / 2018 / 52’)</h3>
         </div>
         <!---->
         <div class="main-container row">

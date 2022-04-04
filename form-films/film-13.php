@@ -31,8 +31,8 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>The earth is blue as an orange</h2>
+            <h3>de Iryna TSILYK (Albatros Communicos, Moonmakers / 2020 / 74’)</h3>
         </div>
         <!---->
         <div class="main-container row">

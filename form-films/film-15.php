@@ -31,8 +31,8 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>The Last Hillbilly</h2>
+            <h3>de Thomas JENKOE et Diane Sara BOUZGAROU (Films de Force Majeure / 2020 / 77’)</h3>
         </div>
         <!---->
         <div class="main-container row">

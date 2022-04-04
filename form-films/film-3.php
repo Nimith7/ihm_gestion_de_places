@@ -31,8 +31,8 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>Enseignez à vivre ! - Edgar Morin et l’éducation innovante</h2>
+            <h3>de Abraham SEGAL (Films en Quête / 2017 / 90’)</h3>
         </div>
         <!---->
         <div class="main-container row">

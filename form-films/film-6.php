@@ -31,8 +31,8 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>L’aventure</h2>
+            <h3>de Marianne CHAUD (Un thé dans la neige / 2020 / 75’)</h3>
         </div>
         <!---->
         <div class="main-container row">

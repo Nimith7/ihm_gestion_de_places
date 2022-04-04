@@ -31,8 +31,8 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>En route pour le milliard</h2>
+            <h3>de Dieudo HAMADI (Les films de l’oeil sauvage,Kiripifilms / 2020 / 90’)</h3>
         </div>
         <!---->
         <div class="main-container row">
