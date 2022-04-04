@@ -57,6 +57,7 @@
                     <input type="submit" name="reserver" value="Reserver" class="res-btn">
                 </form>
             </div>
+            <!---->
         </div>
         <!-- Bouton retour -->
         <div class="btn-retour">
