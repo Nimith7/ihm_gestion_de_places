@@ -42,7 +42,8 @@
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">
-                <form action="" name="resForm" method="post" enctype="multipart/form-data">
+                <form class="resform" action="" name="resForm" method="post" enctype="multipart/form-data">
+                    <h2>Formulaire de réservation</h2>
                     <div class="form-group">
                         <label for="res-nom">Nom</label><input type="text" class="form-control" name="nom" id="res-nom">
                     </div>
@@ -54,7 +55,18 @@
                         <label for="res-tel">Téléphone</label><input type="text" class="form-control" name="tel"
                                                                      id="res-tel">
                     </div>
-                    <input type="submit" name="reserver" value="Reserver" class="res-btn">
+                    <div class="form-group">
+                        <label for="res-places">Nombre de places</label><input type="text" class="form-control"
+                                                                               name="places"
+                                                                               id="res-places">
+                    </div>
+                    <a class="res-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        Réserver
+                    </a>
                 </form>
             </div>
             <!---->
