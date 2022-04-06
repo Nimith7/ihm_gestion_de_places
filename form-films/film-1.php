@@ -64,14 +64,14 @@
                                name="places"
                                id="res-places">
                     </div>
-                    <input type="submit" value="Reserver" name="submit">
-                    <a class="res-btn">
+                    <!-- <input type="submit" value="Reserver" name="submit"> -->
+                    <button class="res-btn" type="submit" name="submit">
                         <span></span>
                         <span></span>
                         <span></span>
                         <span></span>
                         Réserver
-                    </a>
+                    </button>
                 </form>
             </div>
             <!---->

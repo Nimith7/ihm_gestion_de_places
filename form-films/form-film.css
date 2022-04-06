@@ -117,6 +117,8 @@ body {
     padding: 8px 20px;
     border-radius: 0;
     overflow: hidden;
+    border: none;
+    background-color: white;
 }
 
 .res-form form .res-btn {
