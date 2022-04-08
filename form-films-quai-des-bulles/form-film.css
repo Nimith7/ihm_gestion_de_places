@@ -1,0 +1,237 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* FlexBox */
+.column {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+/* Header */
+.header {
+    padding: 5em;
+    background-color: brown;
+    color: white;
+    justify-content: space-around;
+}
+
+.logo {
+    justify-content: space-around;
+    margin: 2.625em 0 0 0;
+}
+
+/* Main */
+.main {
+    padding: 2em;
+    margin: 2em 3em 5.5em 3em;
+    height: 100%;
+    box-shadow: 0 0.265em 1.25em 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.main-titre {
+    margin-bottom: 1.75em;
+    align-items: baseline;
+    text-align: center;
+}
+
+.main-titre h2 {
+    font-size: xxx-large;
+}
+
+.main-titre h3 {
+    font-size: x-large;
+}
+
+.main-container {
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+.affiche-film {
+    border-radius: 0.5em;
+}
+
+/* Formulaire */
+.res-form {
+    width: 400px;
+    padding: 40px;
+    border-left: 1px solid brown;
+}
+
+.res-form h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: black;
+    text-align: center;
+}
+
+.res-form .form-group {
+    position: relative;
+}
+
+.res-form .form-group input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: black;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    background: transparent;
+}
+
+.res-form .form-group label {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: black;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.res-btn {
+    margin: 18px 0 9px 0;
+    padding: 8px 20px;
+    border-radius: 0;
+    overflow: hidden;
+    border: none;
+    background-color: white;
+}
+
+.res-form form .res-btn {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px
+}
+
+.res-form .res-btn:hover {
+    background: brown;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 5px brown,
+    0 0 25px brown,
+    0 0 30px brown,
+    0 0 100px brown;
+}
+
+.res-form .res-btn span {
+    position: absolute;
+    display: block;
+}
+
+.res-form .res-btn span:nth-child(1) {
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, brown);
+    animation: btn-anim1 1s linear infinite;
+}
+
+@keyframes btn-anim1 {
+    0% {
+        left: -100%;
+    }
+    50%, 100% {
+        left: 100%;
+    }
+}
+
+.res-form .res-btn span:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, brown);
+    animation: btn-anim2 1s linear infinite;
+    animation-delay: .25s
+}
+
+@keyframes btn-anim2 {
+    0% {
+        top: -100%;
+    }
+    50%, 100% {
+        top: 100%;
+    }
+}
+
+.res-form .res-btn span:nth-child(3) {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg, transparent, brown);
+    animation: btn-anim3 1s linear infinite;
+    animation-delay: .5s
+}
+
+@keyframes btn-anim3 {
+    0% {
+        right: -100%;
+    }
+    50%, 100% {
+        right: 100%;
+    }
+}
+
+.res-form .res-btn span:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg, transparent, brown);
+    animation: btn-anim4 1s linear infinite;
+    animation-delay: .75s
+}
+
+@keyframes btn-anim4 {
+    0% {
+        bottom: -100%;
+    }
+    50%, 100% {
+        bottom: 100%;
+    }
+}
+
+/* Bouton retour */
+
+
+/* Footer */
+.footer {
+    padding: 3em;
+    text-align: center;
+    background-color: brown;
+    color: white;
+}

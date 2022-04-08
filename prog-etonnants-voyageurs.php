@@ -58,7 +58,7 @@
             <!-- 1.1 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-1.php">
+                    <a href="form-films-etonnants-voyageurs/film-1.php">
                         <img class="affiche-film" src="img/films/acasa.jpg" alt="Affiche du film Acasa, my home"
                              style="
                              max-width: 300px;
@@ -76,7 +76,7 @@
             <!-- 1.2 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-2.php">
+                    <a href="form-films-etonnants-voyageurs/film-2.php">
                         <img class="affiche-film" src="img/films/en-route-pour-le-milliard.jpg"
                              alt="Affiche du film En route pour le milliard"
                              style="
@@ -95,7 +95,7 @@
             <!-- 1.3 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-3.php">
+                    <a href="form-films-etonnants-voyageurs/film-3.php">
                         <img class="affiche-film" src="img/films/enseignez-a-vivre.jpg"
                              alt="Affiche du film Enseignez à vivre ! - Edgar Morin et l’éducation innovante"
                              style="
@@ -114,7 +114,7 @@
             <!-- 1.4 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-4.php">
+                    <a href="form-films-etonnants-voyageurs/film-4.php">
                         <img class="affiche-film" src="img/films/kamtchatka.jpg"
                              alt="Affiche du film Kamtchatka - Un été en pays Evène"
                              style="
@@ -133,7 +133,7 @@
             <!-- 1.5 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-5.php">
+                    <a href="form-films-etonnants-voyageurs/film-5.php">
                         <img class="affiche-film" src="img/films/kongo.jpg" alt="Affiche du film Kongo"
                              style="
                              width: 300px;
@@ -151,7 +151,7 @@
             <!-- 2.1 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-6.php">
+                    <a href="form-films-etonnants-voyageurs/film-6.php">
                         <img class="affiche-film" src="img/films/laventure.jpg" alt="Affiche du film L’aventure"
                              style="
                              max-width: 300px;
@@ -169,7 +169,7 @@
             <!-- 2.2 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-7.php">
+                    <a href="form-films-etonnants-voyageurs/film-7.php">
                         <img class="affiche-film" src="img/films/la-cordillere-des-songes.jpg"
                              alt="Affiche du film La cordillère des songes"
                              style="
@@ -188,7 +188,7 @@
             <!-- 2.3 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-8.php">
+                    <a href="form-films-etonnants-voyageurs/film-8.php">
                         <img class="affiche-film" src="img/films/les-identites-de-mona-ozouf.jpg"
                              alt="Affiche du film Les identités de Mona Ozouf"
                              style="
@@ -207,7 +207,7 @@
             <!-- 2.4 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-9.php">
+                    <a href="form-films-etonnants-voyageurs/film-9.php">
                         <img class="affiche-film" src="img/films/mustang-le-royaume-de-la-lumiere.jpg"
                              alt="Affiche du film Mustang, le royaume de la lumière"
                              style="
@@ -226,7 +226,7 @@
             <!-- 2.5 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-10.php">
+                    <a href="form-films-etonnants-voyageurs/film-10.php">
                         <img class="affiche-film" src="img/films/simone-et-andre-schwarz-bart-la-memoire-en-partage.jpg"
                              alt="Affiche du film Simone et André Schwarz-Bart, la mémoire en partage"
                              style="
@@ -247,7 +247,7 @@
             <!-- 3.1 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-11.php">
+                    <a href="form-films-etonnants-voyageurs/film-11.php">
                         <img class="affiche-film" src="img/films/stray.jpg" alt="Affiche du film Stray"
                              style="
                              max-width: 300px;
@@ -265,7 +265,7 @@
             <!-- 3.2 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-12.php">
+                    <a href="form-films-etonnants-voyageurs/film-12.php">
                         <img class="affiche-film" src="img/films/taming-the-garden.jpg"
                              alt="Affiche du film Taming the garden"
                              style="
@@ -284,7 +284,7 @@
             <!-- 3.3 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-13.php">
+                    <a href="form-films-etonnants-voyageurs/film-13.php">
                         <img class="affiche-film" src="img/films/the-earth-is-blue-as-an-orange.jpg"
                              alt="Affiche du film The earth is blue as an orange"
                              style="
@@ -303,7 +303,7 @@
             <!-- 3.4 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-14.php">
+                    <a href="form-films-etonnants-voyageurs/film-14.php">
                         <img class="affiche-film" src="img/films/the-filmakers-house.jpg"
                              alt="Affiche du film The filmmaker’s house"
                              style="
@@ -322,7 +322,7 @@
             <!-- 3.5 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-15.php">
+                    <a href="form-films-etonnants-voyageurs/film-15.php">
                         <img class="affiche-film" src="img/films/the-last-hillbilly.jpg"
                              alt="Affiche du film The Last Hillbilly"
                              style="
