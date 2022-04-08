@@ -76,21 +76,21 @@
                 </form>
             </div>
             <!---->
-            </div>
-            <!-- Bouton retour -->
-            <div class="btn-retour">
-                <a href="../prog-etonnants-voyageurs.php">Retour à la liste des films</a>
-            </div>
         </div>
-        <!---->
-        <!-- Footer -->
-        <div class="footer">
-            <h3>PROJET BORNE TACTILE POUR FESTIVALS</h3>
-            <p>IHM Gestion de places réalisé par Nicolas Calvi</p>
+        <!-- Bouton retour -->
+        <div class="btn-retour">
+            <a href="../prog-quai-des-bulles.php">Retour à la liste des films</a>
         </div>
-        <!---->
     </div>
-    <! -- 𝖓𝖎𝖒𝖎𝖙𝖍 𓆩*𓆪 Newt._.Castel -->
+    <!---->
+    <!-- Footer -->
+    <div class="footer">
+        <h3>PROJET BORNE TACTILE POUR FESTIVALS</h3>
+        <p>IHM Gestion de places réalisé par Nicolas Calvi</p>
+    </div>
+    <!---->
+</div>
+<! -- 𝖓𝖎𝖒𝖎𝖙𝖍 𓆩*𓆪 Newt._.Castel -->
 </body>
 </html>
 

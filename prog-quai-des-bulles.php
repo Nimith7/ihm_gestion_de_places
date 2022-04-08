@@ -58,7 +58,7 @@
             <!-- 1.1 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-1.php">
+                    <a href="form-films-quai-des-bulles/film-1.php">
                         <img class="affiche-film" src="img/films/cinema-hors-normes.jpg"
                              alt="Affiche du film Hors normes"
                              style="
@@ -77,7 +77,7 @@
             <!-- 1.2 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-2.php">
+                    <a href="form-films-quai-des-bulles/film-2.php">
                         <img class="affiche-film" src="img/films/cinema-en-liberte.jpg"
                              alt="Affiche du film En liberté !"
                              style="
@@ -96,7 +96,7 @@
             <!-- 1.3 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-3.php">
+                    <a href="form-films-quai-des-bulles/film-3.php">
                         <img class="affiche-film" src="img/films/cinema-nott-hill.jpg"
                              alt="Affiche du film Coup de foudre à Notting Hill"
                              style="
@@ -115,7 +115,7 @@
             <!-- 1.4 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-4.php">
+                    <a href="form-films-quai-des-bulles/film-4.php">
                         <img class="affiche-film" src="img/films/cinema-les-grands-ducs.jpg"
                              alt="Affiche du film Les Grands Ducs"
                              style="
@@ -134,7 +134,7 @@
             <!-- 1.5 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-5.php">
+                    <a href="form-films-quai-des-bulles/film-5.php">
                         <img class="affiche-film" src="img/films/cinema-effet-aquatique.jpg"
                              alt="Affiche du film L'effet aquatique"
                              style="
@@ -153,7 +153,7 @@
             <!-- 2.1 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-6.php">
+                    <a href="form-films-quai-des-bulles/film-6.php">
                         <img class="affiche-film" src="img/films/cinema-ce-qui-nous-lie.jpg"
                              alt="Affiche du film Ce qui nous lie"
                              style="
@@ -172,7 +172,7 @@
             <!-- 2.2 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-7.php">
+                    <a href="form-films-quai-des-bulles/film-7.php">
                         <img class="affiche-film" src="img/films/cinema-le-grand-bain.jpg"
                              alt="Affiche du film Le grand bain"
                              style="
@@ -191,7 +191,7 @@
             <!-- 2.3 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-8.php">
+                    <a href="form-films-quai-des-bulles/film-8.php">
                         <img class="affiche-film" src="img/films/cinema-calamity.jpg"
                              alt="Affiche du film Calamity, une enfance de Martha Jane Cannaryf"
                              style="
@@ -210,7 +210,7 @@
             <!-- 2.4 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-9.php">
+                    <a href="form-films-quai-des-bulles/film-9.php">
                         <img class="affiche-film" src="img/films/cinema-brisby.jpg"
                              alt="Affiche du film Brisby et le secret de Nimh"
                              style="
@@ -229,7 +229,7 @@
             <!-- 2.5 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-10.php">
+                    <a href="form-films-quai-des-bulles/film-10.php">
                         <img class="affiche-film" src="img/films/cinema-fievel.jpg"
                              alt="Affiche du film Fievel et le Nouveau Monde"
                              style="
@@ -250,7 +250,7 @@
             <!-- 3.1 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films/film-12.php">
+                    <a href="form-films-quai-des-bulles/film-12.php">
                         <img class="affiche-film" src="img/films/les-sans-dents.jpg"
                              alt="Affiche du film Les sans-dents"
                              style="

@@ -31,14 +31,14 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h2>Hors normes</h2>
+            <h3>De Eric Toledano, Olivier Nakache avec Vincent Cassel, Reda Kateb, Hélène Vincent (2019 – France - 1h55)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/acasa.jpg" alt="Affiche du film Acasa, my home">
+                <img class="affiche-film" src="../img/films/cinema-hors-normes.jpg" alt="Affiche du film Hors normes">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">
@@ -78,7 +78,7 @@
         </div>
         <!-- Bouton retour -->
         <div class="btn-retour">
-            <a href="../prog-etonnants-voyageurs.php">Retour à la liste des films</a>
+            <a href="../prog-quai-des-bulles.php">Retour à la liste des films</a>
         </div>
     </div>
     <!---->
