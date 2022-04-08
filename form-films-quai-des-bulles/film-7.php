@@ -31,15 +31,15 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>La cordillère des songes</h2>
-            <h3>de Patricio GUZMÁN (Atacama Productions, Art France, Market Chile, Sampek Productions / 2019 / 85’)</h3>
+            <h2>Le grand bain</h2>
+            <h3>De Gille Lellouche avec Mathieu Amalric, Guillaume Canet, Benoît Poelvoorde (2018 – France – 2h)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/la-cordillere-des-songes.jpg"
-                     alt="Affiche du film La cordillère des songes">
+                <img class="affiche-film" src="../img/films/cinema-le-grand-bain.jpg"
+                     alt="Affiche du film Le grand bain">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

@@ -31,14 +31,15 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Kongo</h2>
-            <h3>de Hadrien LA VAPEUR et Corto VACLAV (Kidam, Expédition Invisible / 2019 / 70’)</h3>
+            <h2>L'effet aquatique</h2>
+            <h3>De Solveig Anspach avec Florence Loiret-Caille, Didda Jonsdottir, Samir Guesmi (2016 - France -
+                1h20)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/kongo.jpg" alt="Affiche du film Kongo">
+                <img class="affiche-film" src="../img/films/cinema-effet-aquatique.jpg" alt="Affiche du film L'effet aquatique">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

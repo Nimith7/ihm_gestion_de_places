@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>Acasa, my home</h2>
-            <h3>de Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
+            <h3>De Radu CIORNICIUC (Manifest Film / 2020 / 85’)</h3>
         </div>
         <!---->
         <div class="main-container row">

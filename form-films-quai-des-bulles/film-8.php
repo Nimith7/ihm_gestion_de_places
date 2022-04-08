@@ -31,15 +31,15 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Les identités de Mona Ozouf</h2>
-            <h3>de Catherine BERNSTEIN (Paris-Brest Productions / 2020 / 52’)</h3>
+            <h2>Calamity, une enfance de Martha Jane Cannary</h2>
+            <h3>De Rémi Chayé (2020 – France – 1h20)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/les-identites-de-mona-ozouf.jpg"
-                     alt="Affiche du film Les identités de Mona Ozouf">
+                <img class="affiche-film" src="../img/films/cinema-calamity.jpg"
+                     alt="Affiche du film Calamity, une enfance de Martha Jane Cannary">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>Enseignez à vivre ! - Edgar Morin et l’éducation innovante</h2>
-            <h3>de Abraham SEGAL (Films en Quête / 2017 / 90’)</h3>
+            <h3>D'Abraham SEGAL (Films en Quête / 2017 / 90’)</h3>
         </div>
         <!---->
         <div class="main-container row">

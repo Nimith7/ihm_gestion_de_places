@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>Hors normes</h2>
-            <h3>De Eric Toledano, Olivier Nakache avec Vincent Cassel, Reda Kateb, Hélène Vincent (2019 – France - 1h55)</h3>
+            <h3>D'Eric Toledano, Olivier Nakache avec Vincent Cassel, Reda Kateb, Hélène Vincent (2019 – France - 1h55)</h3>
         </div>
         <!---->
         <div class="main-container row">

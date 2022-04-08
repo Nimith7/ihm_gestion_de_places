@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>La cordillère des songes</h2>
-            <h3>de Patricio GUZMÁN (Atacama Productions, Art France, Market Chile, Sampek Productions / 2019 / 85’)</h3>
+            <h3>De Patricio GUZMÁN (Atacama Productions, Art France, Market Chile, Sampek Productions / 2019 / 85’)</h3>
         </div>
         <!---->
         <div class="main-container row">

@@ -54,8 +54,7 @@
         <!---->
         <!-- Liste des évènements -->
         <div class="liste-event row">
-            <!-- Première ligne d'évènements -->
-            <!-- 1.1 -->
+            <!-- 1 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-1.php">
@@ -73,7 +72,7 @@
                     <h3>Acasa, my home</h3>
                 </div>
             </div>
-            <!-- 1.2 -->
+            <!-- 2 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-2.php">
@@ -92,7 +91,7 @@
                     <h3>En route pour le milliard</h3>
                 </div>
             </div>
-            <!-- 1.3 -->
+            <!-- 3 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-3.php">
@@ -111,7 +110,7 @@
                     <h3>Enseignez à vivre !</h3>
                 </div>
             </div>
-            <!-- 1.4 -->
+            <!-- 4 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-4.php">
@@ -130,7 +129,7 @@
                     <h3>Kamtchatka</h3>
                 </div>
             </div>
-            <!-- 1.5 -->
+            <!-- 5 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-5.php">
@@ -146,9 +145,7 @@
                     <h3>Kongo</h3>
                 </div>
             </div>
-            <!---->
-            <!-- Deuxième ligne d'évènements -->
-            <!-- 2.1 -->
+            <!-- 6 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-6.php">
@@ -166,7 +163,7 @@
                     <h3>L’aventure</h3>
                 </div>
             </div>
-            <!-- 2.2 -->
+            <!-- 7 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-7.php">
@@ -185,7 +182,7 @@
                     <h3>La cordillère des songes</h3>
                 </div>
             </div>
-            <!-- 2.3 -->
+            <!-- 8 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-8.php">
@@ -204,7 +201,7 @@
                     <h3>Les identités de Mona Ozouf</h3>
                 </div>
             </div>
-            <!-- 2.4 -->
+            <!-- 9 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-9.php">
@@ -223,7 +220,7 @@
                     <h3>Mustang, le royaume de la lumière</h3>
                 </div>
             </div>
-            <!-- 2.5 -->
+            <!-- 10 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-10.php">
@@ -242,9 +239,7 @@
                     <h3>Simone et André Schwarz-Bart</h3>
                 </div>
             </div>
-            <!---->
-            <!-- Troisième ligne d'évènements -->
-            <!-- 3.1 -->
+            <!-- 11 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-11.php">
@@ -262,7 +257,7 @@
                     <h3>Stray</h3>
                 </div>
             </div>
-            <!-- 3.2 -->
+            <!-- 12 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-12.php">
@@ -281,7 +276,7 @@
                     <h3>Taming the garden</h3>
                 </div>
             </div>
-            <!-- 3.3 -->
+            <!-- 13 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-13.php">
@@ -300,7 +295,7 @@
                     <h3>The earth is blue as an orange</h3>
                 </div>
             </div>
-            <!-- 3.4 -->
+            <!-- 14 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-14.php">
@@ -319,7 +314,7 @@
                     <h3>The filmmaker’s house</h3>
                 </div>
             </div>
-            <!-- 3.5 -->
+            <!-- 15 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-etonnants-voyageurs/film-15.php">

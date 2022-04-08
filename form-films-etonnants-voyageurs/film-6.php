@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>L’aventure</h2>
-            <h3>de Marianne CHAUD (Un thé dans la neige / 2020 / 75’)</h3>
+            <h3>De Marianne CHAUD (Un thé dans la neige / 2020 / 75’)</h3>
         </div>
         <!---->
         <div class="main-container row">

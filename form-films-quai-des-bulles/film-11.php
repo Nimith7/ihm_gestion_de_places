@@ -31,14 +31,14 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Stray</h2>
-            <h3>de Elisabeth LO (Elisabeth LO / 202 / 73’)</h3>
+            <h2>Les sans-dents</h2>
+            <h3>De Pascal Rabaté avec Yolande Moreau, Gustave Kervern, François Morel (2020 – France – 1h25)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/stray.jpg" alt="Affiche du film Stray">
+                <img class="affiche-film" src="../img/films/les-sans-dents.jpg" alt="Affiche du film Les sans-dents">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

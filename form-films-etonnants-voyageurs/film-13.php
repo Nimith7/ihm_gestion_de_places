@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>The earth is blue as an orange</h2>
-            <h3>de Iryna TSILYK (Albatros Communicos, Moonmakers / 2020 / 74’)</h3>
+            <h3>D'Iryna TSILYK (Albatros Communicos, Moonmakers / 2020 / 74’)</h3>
         </div>
         <!---->
         <div class="main-container row">

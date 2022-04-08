@@ -31,15 +31,15 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>En route pour le milliard</h2>
-            <h3>de Dieudo HAMADI (Les films de l’oeil sauvage,Kiripifilms / 2020 / 90’)</h3>
+            <h2>En liberté !</h2>
+            <h3>De Pierre Salvadori avec Adèle Haenel, Pio Marmaï, Audrey Tautou (2018 - France - 1h45)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/en-route-pour-le-milliard.jpg"
-                     alt="Affiche du film En route pour le milliard">
+                <img class="affiche-film" src="../img/films/cinema-en-liberte.jpg"
+                     alt="Affiche du film En liberté !">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

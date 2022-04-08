@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>The Last Hillbilly</h2>
-            <h3>de Thomas JENKOE et Diane Sara BOUZGAROU (Films de Force Majeure / 2020 / 77’)</h3>
+            <h3>De Thomas JENKOE et Diane Sara BOUZGAROU (Films de Force Majeure / 2020 / 77’)</h3>
         </div>
         <!---->
         <div class="main-container row">

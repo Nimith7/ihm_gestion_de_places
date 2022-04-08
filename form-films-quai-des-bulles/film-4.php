@@ -31,16 +31,16 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Kamtchatka - Un été en pays Evène</h2>
-            <h3>de Mike MAGIDSON et Nastassja MARTIN réalisé par Mike MAGIDSON (Point du Jour, T2MP, ARTE France / 2018
-                / 52’)</h3>
+            <h2>Les Grands Ducs</h2>
+            <h3>De Patrice Leconte avec Jean-Pierre Marielle, Philippe Noiret, Jean Rochefort, Michel Blanc (1996 –
+                France – 1h25)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/kamtchatka.jpg"
-                     alt="Affiche du film Kamtchatka - Un été en pays Evène">
+                <img class="affiche-film" src="../img/films/cinema-les-grands-ducs.jpg"
+                     alt="Affiche du film Les Grands Ducs">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

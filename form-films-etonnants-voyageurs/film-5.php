@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>Kongo</h2>
-            <h3>de Hadrien LA VAPEUR et Corto VACLAV (Kidam, Expédition Invisible / 2019 / 70’)</h3>
+            <h3>De Hadrien LA VAPEUR et Corto VACLAV (Kidam, Expédition Invisible / 2019 / 70’)</h3>
         </div>
         <!---->
         <div class="main-container row">

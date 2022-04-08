@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>En route pour le milliard</h2>
-            <h3>de Dieudo HAMADI (Les films de l’oeil sauvage,Kiripifilms / 2020 / 90’)</h3>
+            <h3>De Dieudo HAMADI (Les films de l’oeil sauvage,Kiripifilms / 2020 / 90’)</h3>
         </div>
         <!---->
         <div class="main-container row">

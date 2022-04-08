@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>Mustang, le royaume de la lumière</h2>
-            <h3>de Olivier WEBER (Voyage, Bo Travail, France 5 / 2020 / 52’)</h3>
+            <h3>D'Olivier WEBER (Voyage, Bo Travail, France 5 / 2020 / 52’)</h3>
         </div>
         <!---->
         <div class="main-container row">

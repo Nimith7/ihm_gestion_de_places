@@ -31,15 +31,15 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Simone et André Schwarz-Bart, la mémoire en partage</h2>
-            <h3>de Camille CLAVEL (INA / 2018 / 52’)</h3>
+            <h2>Fievel et le Nouveau Monde</h2>
+            <h3>De Don Bluth (1986 – USA – 1h15)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/simone-et-andre-schwarz-bart-la-memoire-en-partage.jpg"
-                     alt="Affiche du film Simone et André Schwarz-Bart, la mémoire en partage">
+                <img class="affiche-film" src="../img/films/cinema-fievel.jpg"
+                     alt="Affiche du film Fievel et le Nouveau Monde">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

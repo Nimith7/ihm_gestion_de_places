@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>Kamtchatka - Un été en pays Evène</h2>
-            <h3>de Mike MAGIDSON et Nastassja MARTIN réalisé par Mike MAGIDSON (Point du Jour, T2MP, ARTE France / 2018
+            <h3>De Mike MAGIDSON et Nastassja MARTIN réalisé par Mike MAGIDSON (Point du Jour, T2MP, ARTE France / 2018
                 / 52’)</h3>
         </div>
         <!---->

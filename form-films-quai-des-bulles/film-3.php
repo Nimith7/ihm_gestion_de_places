@@ -31,15 +31,15 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Enseignez à vivre ! - Edgar Morin et l’éducation innovante</h2>
-            <h3>de Abraham SEGAL (Films en Quête / 2017 / 90’)</h3>
+            <h2>Coup de foudre à Notting Hill</h2>
+            <h3>De Roger Michell avec Julia Roberts et Hugh Grant (1999 – Angleterre – 2h - V.O.)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/enseignez-a-vivre.jpg"
-                     alt="Affiche du film Enseignez à vivre ! - Edgar Morin et l’éducation innovante">
+                <img class="affiche-film" src="../img/films/cinema-nott-hill.jpg"
+                     alt="Affiche du film Coup de foudre à Notting Hill">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

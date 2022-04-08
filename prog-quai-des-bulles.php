@@ -54,8 +54,7 @@
         <!---->
         <!-- Liste des évènements -->
         <div class="liste-event row">
-            <!-- Première ligne d'évènements -->
-            <!-- 1.1 -->
+            <!-- 1 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-1.php">
@@ -74,7 +73,7 @@
                     <h3>Hors normes</h3>
                 </div>
             </div>
-            <!-- 1.2 -->
+            <!-- 2 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-2.php">
@@ -93,7 +92,7 @@
                     <h3>En liberté !</h3>
                 </div>
             </div>
-            <!-- 1.3 -->
+            <!-- 3 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-3.php">
@@ -112,7 +111,7 @@
                     <h3>Coup de foudre à Notting Hill</h3>
                 </div>
             </div>
-            <!-- 1.4 -->
+            <!-- 4 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-4.php">
@@ -131,7 +130,7 @@
                     <h3>Les Grands Ducs</h3>
                 </div>
             </div>
-            <!-- 1.5 -->
+            <!-- 5 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-5.php">
@@ -148,9 +147,7 @@
                     <h3>L'effet aquatique</h3>
                 </div>
             </div>
-            <!---->
-            <!-- Deuxième ligne d'évènements -->
-            <!-- 2.1 -->
+            <!-- 6 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-6.php">
@@ -169,7 +166,7 @@
                     <h3>Ce qui nous lie</h3>
                 </div>
             </div>
-            <!-- 2.2 -->
+            <!-- 7 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-7.php">
@@ -188,7 +185,7 @@
                     <h3>Le grand bain</h3>
                 </div>
             </div>
-            <!-- 2.3 -->
+            <!-- 8 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-8.php">
@@ -207,7 +204,7 @@
                     <h3>Calamity</h3>
                 </div>
             </div>
-            <!-- 2.4 -->
+            <!-- 9 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-9.php">
@@ -226,7 +223,7 @@
                     <h3>Brisby et le secret de Nimh</h3>
                 </div>
             </div>
-            <!-- 2.5 -->
+            <!-- 10 -->
             <div class="card-event">
                 <div class="affiche-event">
                     <a href="form-films-quai-des-bulles/film-10.php">
@@ -245,12 +242,10 @@
                     <h3>Fievel et le Nouveau Monde</h3>
                 </div>
             </div>
-            <!---->
-            <!-- Troisième ligne d'évènements -->
-            <!-- 3.1 -->
+            <!-- 11 -->
             <div class="card-event">
                 <div class="affiche-event">
-                    <a href="form-films-quai-des-bulles/film-12.php">
+                    <a href="form-films-quai-des-bulles/film-11.php">
                         <img class="affiche-film" src="img/films/les-sans-dents.jpg"
                              alt="Affiche du film Les sans-dents"
                              style="

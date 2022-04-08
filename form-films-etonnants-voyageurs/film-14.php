@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>The filmmaker’s house</h2>
-            <h3>de Marc ISAACS (Marc Isaacs/Lus/ MK Studio/ Bungalow Town Productions Ltd / 2020 / 75’)</h3>
+            <h3>De Marc ISAACS (Marc Isaacs/Lus/ MK Studio/ Bungalow Town Productions Ltd / 2020 / 75’)</h3>
         </div>
         <!---->
         <div class="main-container row">

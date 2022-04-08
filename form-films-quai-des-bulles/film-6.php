@@ -31,14 +31,16 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>L’aventure</h2>
-            <h3>de Marianne CHAUD (Un thé dans la neige / 2020 / 75’)</h3>
+            <h2>Ce qui nous lie</h2>
+            <h3>De Cédric Klapisch, Santiago Amigorena. Avec Pio Marmai, Ana Girardot, François Civil (2017 – France –
+                1h50)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/laventure.jpg" alt="Affiche du film L’aventure">
+                <img class="affiche-film" src="../img/films/cinema-ce-qui-nous-lie.jpg"
+                     alt="Affiche du film Ce qui nous lie">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">

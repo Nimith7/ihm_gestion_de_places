@@ -32,7 +32,7 @@
         <!-- Titre Film -->
         <div class="main-titre">
             <h2>Stray</h2>
-            <h3>de Elisabeth LO (Elisabeth LO / 202 / 73’)</h3>
+            <h3>D'Elisabeth LO (Elisabeth LO / 202 / 73’)</h3>
         </div>
         <!---->
         <div class="main-container row">

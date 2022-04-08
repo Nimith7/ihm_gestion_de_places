@@ -31,15 +31,15 @@
     <div class="main">
         <!-- Titre Film -->
         <div class="main-titre">
-            <h2>Mustang, le royaume de la lumière</h2>
-            <h3>de Olivier WEBER (Voyage, Bo Travail, France 5 / 2020 / 52’)</h3>
+            <h2>Brisby et le secret de Nimh</h2>
+            <h3>De Don Bluth (1982 – USA – 1h20)</h3>
         </div>
         <!---->
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/mustang-le-royaume-de-la-lumiere.jpg"
-                     alt="Affiche du film Mustang, le royaume de la lumière">
+                <img class="affiche-film" src="../img/films/cinema-brisby.jpg"
+                     alt="Affiche du film Brisby et le secret de Nimh">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">
