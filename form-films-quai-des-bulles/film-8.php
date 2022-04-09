@@ -65,6 +65,44 @@
                                name="places"
                                id="res-places">
                     </div>
+
+                    <!-- Nombre de places encore disponibles -->
+                    <?php
+                    function getNewBddPtr()
+                    {
+                        try {
+                            $bdd = new PDO('mysql:host=localhost;dbname=gestionplaces', 'root', 'root');
+                        } catch (PDOException $e) {
+                            exit('Connexion échouée : ' . $e->getMessage());
+                        }
+                        return $bdd;
+                    }
+
+                    $event_id_sur_cette_page = 9;
+
+                    $bdd = getNewBddPtr();
+                    $count = $bdd->prepare("SELECT SUM(nb_place_res) AS nb_place_res FROM clients WHERE event_id LIKE ?");
+                    $count->execute(array($event_id_sur_cette_page));
+                    $f = $count->fetch();
+
+                    $nb_place_res = $f["nb_place_res"];
+
+                    $count->closeCursor();
+
+                    $bdd = getNewBddPtr();
+                    $count = $bdd->prepare("SELECT nb_places FROM evenements WHERE event_id LIKE ?");
+                    $count->execute(array($event_id_sur_cette_page));
+                    $f = $count->fetch();
+
+                    $nb_places = $f["nb_places"];
+
+                    $count->closeCursor();
+
+                    $places_restantes = $nb_places - $nb_place_res;
+
+                    echo "Il reste acutellement " . $places_restantes . " places !";
+                    ?>
+
                     <!-- <input type="submit" value="Reserver" name="submit"> -->
                     <button class="res-btn" type="submit" name="submit">
                         <span></span>

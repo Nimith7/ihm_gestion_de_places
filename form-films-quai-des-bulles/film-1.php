@@ -65,7 +65,7 @@
                                name="places"
                                id="res-places">
                     </div>
-*
+
                     <!-- Nombre de places encore disponibles -->
                     <?php
                     function getNewBddPtr()
