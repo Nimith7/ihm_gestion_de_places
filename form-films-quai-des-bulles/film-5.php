@@ -39,7 +39,8 @@
         <div class="main-container row">
             <!-- Affiche du filme -->
             <div class="affiche-event">
-                <img class="affiche-film" src="../img/films/cinema-effet-aquatique.jpg" alt="Affiche du film L'effet aquatique">
+                <img class="affiche-film" src="../img/films/cinema-effet-aquatique.jpg"
+                     alt="Affiche du film L'effet aquatique">
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">
@@ -78,8 +79,8 @@
             <!---->
         </div>
         <!-- Bouton retour -->
-        <div class="btn-retour">
-            <a href="../prog-quai-des-bulles.php">Retour à la liste des films</a>
+        <div>
+            <a id="btn-retour" href="../prog-quai-des-bulles.php">Retour à la liste des films</a>
         </div>
     </div>
     <!---->

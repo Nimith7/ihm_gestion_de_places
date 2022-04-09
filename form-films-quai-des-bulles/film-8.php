@@ -78,9 +78,8 @@
             <!---->
         </div>
         <!-- Bouton retour -->
-        <!-- Bouton retour -->
-        <div class="btn-retour">
-            <a href="../prog-quai-des-bulles.php">Retour à la liste des films</a>
+        <div>
+            <a id="btn-retour" href="../prog-quai-des-bulles.php">Retour à la liste des films</a>
         </div>
     </div>
     <!---->
