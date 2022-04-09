@@ -44,6 +44,10 @@
                 <form class="resform" action="insert.php" name="resForm" method="post" enctype="multipart/form-data">
                     <h2>Formulaire de réservation</h2>
                     <div class="form-group">
+                        <input type="hidden" class="form-control" name="film" id="res-film"
+                               value="Les sans-dents">
+                    </div>
+                    <div class="form-group">
                         <label for="res-nom">Nom</label>
                         <input type="text" class="form-control" name="nom" id="res-nom">
                     </div>
@@ -62,6 +66,10 @@
                         <input type="text" class="form-control"
                                name="places"
                                id="res-places">
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" class="form-control" name="event_id" id="res-event-id"
+                               value="12">
                     </div>
 
                     <!-- Nombre de places encore disponibles -->
