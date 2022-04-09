@@ -69,6 +69,7 @@ body {
     border-radius: 3rem;
     font-size: 1rem;
     text-decoration: none;
+    margin-right: 10px;
 }
 
 #switch_btn:hover {

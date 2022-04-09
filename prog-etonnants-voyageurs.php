@@ -33,7 +33,8 @@
             <!-- Bouton choix du festival -->
             <a id="switch_btn" href="prog-quai-des-bulles.php">Changer de festival</a>
             <!-- <input id="switch_btn" type="button" value="Changer de festival"> -->
-            <!---->
+            <!-- Retour Accueil -->
+            <a id="switch_btn" href="">Retourner à l'accueil</a>
         </div>
         <!---->
         <!-- Filtres -->
