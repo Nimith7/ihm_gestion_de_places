@@ -7,7 +7,6 @@
     <meta charset="UTF-8">
     <title>Borne Tactile Festival - Places de spectacles</title>
     <link rel="stylesheet" href="form-film.css">
-    <script src="form-film.js" type="text/javascript"></script>
 
     <!-- JQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
