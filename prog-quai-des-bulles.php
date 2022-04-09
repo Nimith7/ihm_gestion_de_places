@@ -37,6 +37,7 @@
         </div>
         <!---->
         <!-- Filtres -->
+        <!--
         <nav class="filtres row">
             <div class="filtre-btn">
                 <input type="radio" name="rdo_j1" id="btn_jour1" onclick="setColor('btn_jour1')">
@@ -51,7 +52,7 @@
                 <label for="btn_jour3">Jour 3</label>
             </div>
         </nav>
-        <!---->
+        -->
         <!-- Liste des évènements -->
         <div class="liste-event row">
             <!-- 1 -->

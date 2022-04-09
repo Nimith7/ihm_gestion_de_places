@@ -2,7 +2,7 @@
 // include_once './config/database.php';
 $hostname = "localhost";
 $username = "root";
-$password = "bonjour";
+$password = "root";
 $db = "gestionplaces";
 
 $dbconnect = mysqli_connect($hostname, $username, $password, $db);
