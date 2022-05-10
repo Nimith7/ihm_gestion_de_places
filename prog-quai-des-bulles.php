@@ -36,8 +36,8 @@
             <!-- Retour Accueil -->
             <a id="switch_btn" href="">Retourner à l'accueil</a>
             <!-- Administration -->
-            <a id="switch_btn" href="">
-                <img src="img/icone-admin.png" alt="Icone Administrateur"
+            <a id="switch_btn" href="gestion-evens.php">
+                <div> <img src="img/icone-admin.png" alt="Icone Administrateur" style="max-width: 30px;"></div>
             </a>
         </div>
         <!---->
