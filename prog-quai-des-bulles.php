@@ -35,6 +35,10 @@
             <!-- <input id="switch_btn" type="button" value="Changer de festival"> -->
             <!-- Retour Accueil -->
             <a id="switch_btn" href="">Retourner à l'accueil</a>
+            <!-- Administration -->
+            <a id="switch_btn" href="">
+                <img src="img/icone-admin.png" alt="Icone Administrateur"
+            </a>
         </div>
         <!---->
         <!-- Filtres -->
