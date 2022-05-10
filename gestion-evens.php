@@ -34,12 +34,46 @@
         </div>
         <!---->
         <div class="main-container row">
+            <!-- Tableau evenements -->
+            <div>
+                <table id="events">
+                    <tr>
+                        <th>ID</th>
+                        <th>Titre de l'événement</th>
+                        <th>Nombre de places</th>
+                        <th>Horaire</th>
+                        <th>Numéro de la salle</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Exemple Tittre</td>
+                        <td>100</td>
+                        <td>14:30</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Exemple Tittre</td>
+                        <td>70</td>
+                        <td>15:00</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Exemple Tittre</td>
+                        <td>90</td>
+                        <td>14:45</td>
+                        <td>7</td>
+                    </tr>
+                </table>
+            <!---->
+            </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">
-                <form class="resform" action="insert.php" name="resForm" method="post" enctype="multipart/form-data">
+                <form class="resform" action="rest-gestion.php" name="resForm" method="post" enctype="multipart/form-data">
                     <h2>Formulaire de modification</h2>
                     <div class="form-group">
-                        <label for="res-nom">ID</label>
+                        <label for="res-event-id">ID</label>
                         <input type="number" class="form-control" name="event_id" id="res-event-id">
                     </div>
                     <div class="form-group">

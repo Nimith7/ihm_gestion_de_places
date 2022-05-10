@@ -58,17 +58,9 @@ body {
     font-size: xxx-large;
 }
 
-.main-titre h3 {
-    font-size: x-large;
-}
-
 .main-container {
     justify-content: space-around;
     margin-bottom: 40px;
-}
-
-.affiche-film {
-    border-radius: 0.5em;
 }
 
 /* Formulaire */
@@ -223,6 +215,29 @@ body {
     50%, 100% {
         bottom: 100%;
     }
+}
+
+/* Tableau */
+#events {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#events td, #events th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#events tr:nth-child(even){background-color: #f2f2f2;}
+
+#events tr:hover {background-color: #ddd;}
+
+#events th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: brown;
+    color: white;
 }
 
 /* Bouton retour */
