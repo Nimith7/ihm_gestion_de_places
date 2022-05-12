@@ -38,10 +38,9 @@ try {
     <!-- Header -->
     <div class="header">
         <div>
-            <h1>ACTUELLEMENT AUX FESTIVALS</h1>
+            <h1>ACTUELLEMENT AUX FESTIVALS - ADMINISTRATION</h1>
         </div>
         <div class="logo row">
-            <!-- <img src="img/Logo-Etonnants-Voyageurs.png" alt="Logo Étonnants Voyageurs"> -->
             <img src="./img/Logo-Quai-des-Bulles.jpg" alt="Logo Quai des Bulles" style="width: 40%">
             <img src="./img/etonnants-voyageurs-2022.jpg" alt="Affiche Étonnants Voyageurs 2022" style="width: 60%">
         </div>
@@ -84,31 +83,31 @@ try {
             </div>
             <!-- Formulaire de réservation -->
             <div class="res-form">
-                <form class="resform" action="rest-gestion.php" name="resForm" method="post" enctype="multipart/form-data">
+                <form class="resform" action="controller.php" name="resForm" method="post" enctype="multipart/form-data">
                     <h2>Formulaire de modification</h2>
                     <div class="form-group">
                         <label for="res-event-id">ID</label>
                         <input type="number" class="form-control" name="event_id" id="res-event-id">
                     </div>
                     <div class="form-group">
-                        <label for="res-nom">Titre</label>
-                        <input type="text" class="form-control" name="nom" id="res-nom">
+                        <label for="res-titre">Titre</label>
+                        <input type="text" class="form-control" name="titre_event" id="res-titre">
                     </div>
                     <div class="form-group">
-                        <label for="res-email">Nombre de places</label>
-                        <input type="email" class="form-control" name="email"
-                               id="res-email">
-                    </div>
-                    <div class="form-group">
-                        <label for="res-tel">Horaire</label>
-                        <input type="text" class="form-control" name="tel"
-                               id="res-tel">
-                    </div>
-                    <div class="form-group">
-                        <label for="res-places">Salle</label>
-                        <input type="text" class="form-control"
-                               name="places"
+                        <label for="res-places">Nombre de places</label>
+                        <input type="number" class="form-control" name="nb_places"
                                id="res-places">
+                    </div>
+                    <div class="form-group">
+                        <label for="res-horaire">Horaire</label>
+                        <input type="text" class="form-control" name="horaire"
+                               id="res-horaire">
+                    </div>
+                    <div class="form-group">
+                        <label for="res-salle">Salle</label>
+                        <input type="number" class="form-control"
+                               name="salle"
+                               id="res-salle">
                     </div>
                     <button class="res-btn" type="submit" name="submit">
                         <span></span>
