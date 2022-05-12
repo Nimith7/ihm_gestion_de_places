@@ -1,4 +1,13 @@
 <?php
+// Initialiser la session
+session_start();
+// Vérifiez si l'utilisateur est connecté, sinon redirigez-le vers la page de connexion
+if (!isset($_SESSION["username"])) {
+    header("Location: auth-page.php");
+    exit();
+}
+
+
 $host = 'localhost';
 $dbname = 'gestionplaces';
 $username = 'root';
@@ -45,12 +54,15 @@ try {
             <img src="./img/etonnants-voyageurs-2022.jpg" alt="Affiche Étonnants Voyageurs 2022" style="width: 60%">
         </div>
     </div>
+
     <!---->
     <!-- Main -->
     <div class="main">
         <!-- Titre -->
         <div class="main-titre">
-            <h2>Gestion des événements</h2>
+            <h2>Bienvenue <?php echo $_SESSION['username']; ?>!</h2>
+            <p>C'est votre tableau de bord.</p>
+
         </div>
         <!---->
         <div class="main-container row">
@@ -121,9 +133,10 @@ try {
             <!---->
         </div>
         <!-- Bouton retour -->
-        <div>
+        <a id="btn-retour" href="logout.php">Déconnexion</a>
+        <!--<div>
             <a id="btn-retour" href="./prog-etonnants-voyageurs.php">Retour à la liste des films</a>
-        </div>
+        </div>-->
     </div>
     <!---->
     <!-- Footer -->

@@ -25,4 +25,34 @@ if (isset($_POST['submit'])) {
     $stmt->execute();
 
     $pdo = null;
+
+    echo "
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+    <meta charset='UTF-8'>
+    <title>Borne Tactile Festival - Places de spectacles</title>
+    <link rel='stylesheet' href='gestion-events.css'>
+</head>
+<body>   
+    <div class='column'>
+        <!-- Main -->
+    <div class='main'>
+        <!-- Titre -->
+        <div class='main-titre'>
+            <h2>Liste mise à jour !</h2>
+        </div>
+        <!-- Bouton retour -->
+        <div>
+        <a id='btn-retour' href='./gestion-evens.php'>Retour à la liste des films</a>
+    </div>
+    </div>
+    <!-- Footer -->
+    <div class='footer'>
+        <h3>PROJET BORNE TACTILE POUR FESTIVALS</h3>
+        <p>IHM Gestion de places réalisé par Nicolas Calvi</p>
+    </div>
+    <!---->
+</div>
+</body>";
 }
