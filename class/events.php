@@ -28,7 +28,7 @@ class User{
     }
 
     // UPDATE Event
-    public function updateUser(){
+    public function updateEvent(){
         $sqlQuery = "UPDATE
                         ". $this->dbTable ."
                     SET
