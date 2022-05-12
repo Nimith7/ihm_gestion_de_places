@@ -1,4 +1,25 @@
 <?php
+$host = 'localhost';
+$dbname = 'gestionplaces';
+$username = 'root';
+$password = 'root';
+
+$dsn = "mysql:host=$host;dbname=$dbname";
+
+// récupérer tous les evenements
+$sql = "SELECT * FROM evenements";
+
+try {
+    $pdo = new PDO($dsn, $username, $password);
+    $stmt = $pdo->query($sql);
+
+    if ($stmt === false) {
+        die("Erreur");
+    }
+
+} catch (PDOException $e) {
+    echo $e->getMessage();
+}
 ?>
 
 <!DOCTYPE html>
@@ -37,6 +58,7 @@
             <!-- Tableau evenements -->
             <div>
                 <table id="events">
+                    <thead>
                     <tr>
                         <th>ID</th>
                         <th>Titre de l'événement</th>
@@ -44,27 +66,19 @@
                         <th>Horaire</th>
                         <th>Numéro de la salle</th>
                     </tr>
+                    </thead>
+                    <tbody>
+                    <?php while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) : ?>
                     <tr>
-                        <td>1</td>
-                        <td>Exemple Tittre</td>
-                        <td>100</td>
-                        <td>14:30</td>
-                        <td>2</td>
+                        <td><?php echo htmlspecialchars($row['event_id']); ?></td>
+                        <td><?php echo htmlspecialchars(utf8_encode($row['titre_event'])); ?></td>
+                        <td><?php echo htmlspecialchars($row['nb_places']); ?></td>
+                        <td><?php echo htmlspecialchars(utf8_encode($row['horaire'])); ?></td>
+                        <td><?php echo htmlspecialchars($row['salle']); ?></td>
                     </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Exemple Tittre</td>
-                        <td>70</td>
-                        <td>15:00</td>
-                        <td>4</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Exemple Tittre</td>
-                        <td>90</td>
-                        <td>14:45</td>
-                        <td>7</td>
-                    </tr>
+                    <?php endwhile; ?>
+                    </tbody>
+
                 </table>
             <!---->
             </div>
@@ -123,4 +137,3 @@
 <! -- 𝖓𝖎𝖒𝖎𝖙𝖍 𓆩*𓆪 Newt._.Castel -->
 </body>
 </html>
-

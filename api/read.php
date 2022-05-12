@@ -10,11 +10,10 @@ include_once '../class/events.php';
 $database = new DB();
 $db = $database->getConnection();
 
-$items = new User($db);
+$items = new Event($db);
 
 $stmt = $items->getEvents();
 $itemCount = $stmt->rowCount();
-
 
 echo json_encode($itemCount);
 
@@ -33,16 +32,15 @@ if($itemCount > 0){
             "horaire" => $horaire,
             "salle" => $salle,
         );
-
         array_push($eventrArr["body"], $e);
     }
     echo json_encode($eventrArr);
-}
 
+}
 else{
     http_response_code(404);
     echo json_encode(
-        array("message" => "Data not found.")
+        array("message" => "Donnees non trouvees")
     );
 }
 ?>

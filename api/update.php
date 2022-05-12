@@ -11,11 +11,11 @@ include_once '../class/events.php';
 $database = new DB();
 $db = $database->getConnection();
 
-$item = new User($db);
+$item = new Event($db);
 
 $data = json_decode(file_get_contents("php://input"));
 
-$item->id = $data->id;
+$item->event_id = $data->event_id;
 
 // events values
 $item->event_id = $data->event_id;
@@ -25,8 +25,8 @@ $item->horaire = $data->horaire;
 $item->event_id = $data->event_id;
 
 if($item->updateEvent()){
-    echo json_encode("Evenement modifé !");
+    echo json_encode("Evenement modife !");
 } else{
-    echo json_encode("Evenement n'a pas été modifé !");
+    echo json_encode("Evenement n'a pas ete modife !");
 }
 ?>

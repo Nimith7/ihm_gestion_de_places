@@ -1,11 +1,11 @@
 <?php
-class User{
+class Event{
 
     // conn
     private $conn;
 
     // table
-    private $dbTable = "events";
+    private $dbTable = "evenements";
 
     // col
     public $event_id;
