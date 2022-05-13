@@ -14,9 +14,9 @@ if (isset($_POST['submit'])) {
     $horaire = $_POST["horaire"];
     $salle = $_POST["salle"];
 
-    echo "<pre>";
-    var_dump($_POST);
-    echo "</pre>";
+    //echo "<pre>";
+    //var_dump($_POST);
+    //echo "</pre>";
 
     $sql = "UPDATE evenements SET titre_event='$titre_event', nb_places='$nb_places', horaire='$horaire', salle='$salle' WHERE event_id='$event_id'";
 
@@ -44,7 +44,7 @@ if (isset($_POST['submit'])) {
         </div>
         <!-- Bouton retour -->
         <div>
-        <a id='btn-retour' href='./gestion-evens.php'>Retour à la liste des films</a>
+        <a id='btn-retour' href='./gestion-evens.php'>Retour</a>
     </div>
     </div>
     <!-- Footer -->
