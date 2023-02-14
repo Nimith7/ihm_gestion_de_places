@@ -38,3 +38,7 @@ Ce projet est donc la partie IHM gestion des places de spectacles (Réservation)
 ### Technologies utilisées :
 
 J’ai utilisé comme langages informatique du HTML, CSS et PHP, comme serveur local UwAmp et MariaDB ainsi que PhpMyAdmin pour la base de données.
+
+### Compte rendu du projet global :
+
+https://docs.google.com/document/d/15-OKKcqvt9xWXC6NZ_Bo71JBsMkyII8ZSN0IFAcKE1I/edit?usp=sharing
