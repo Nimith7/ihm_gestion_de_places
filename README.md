@@ -35,6 +35,6 @@ Je suis chargé de réaliser les tâches suivantes :
 
 Ce projet est donc la partie IHM gestion des places de spectacles (Réservation).
 
-### Technos utilisées
+### Technologies utilisées :
 
 J’ai utilisé comme langages informatique du HTML, CSS et PHP, comme serveur local UwAmp et MariaDB ainsi que PhpMyAdmin pour la base de données.
