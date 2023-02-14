@@ -1,9 +1,14 @@
-# ihm_gestion_de_places
-Projet de seconde année de BTS SNIR : Borne Tactile pour les festivals - IHM gestion des places de spectacles.
+# IHM Gestion de places / Réservation
+
+Projet 2nd année de BTS SNIR : Borne Tactile pour les festivals - IHM gestion des places de spectacles.
+
+### Contexte : 
 
 Chaque année à Saint-Malo les festivals “Quai des Bulles” et “Étonnants voyageurs” se déroulent sur 3 jours.
 L’accès aux informations, à la localisation, au déplacement des festivaliers, est parfois compliqué à cause de la dispersion des animations.
 Afin de résoudre ce problème, la solution proposée par les organisateurs est d’installer des bornes d’informations à différents endroits stratégiques.
+
+### Objectif :
 
 L’objectif du projet est alors d’offrir aux festivaliers un guide intéractif qui sera susceptible de fournir des informations en temps réel:
 
@@ -18,6 +23,8 @@ L’objectif du projet est alors d’offrir aux festivaliers un guide intéracti
 
 Un point d’accès sans-fils sera également mis à disposition des festivaliers.
 
+### Ce que je dois faire : 
+
 Je suis chargé de réaliser les tâches suivantes :
 
 - Configurer la connexion 4G et le point d’accès Wi-Fi de la borne;
@@ -27,5 +34,7 @@ Je suis chargé de réaliser les tâches suivantes :
 - Afficher les places encore libres dans les salles de spectacles.
 
 Ce projet est donc la partie IHM gestion des places de spectacles (Réservation).
+
+### Technos utilisées
 
 J’ai utilisé comme langages informatique du HTML, CSS et PHP, comme serveur local UwAmp et MariaDB ainsi que PhpMyAdmin pour la base de données.
